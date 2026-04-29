@@ -23,7 +23,7 @@
 Hi, I'm Sabeeh! I'm currently in my second year studying Computer Science at Queen Mary University of London (QMUL). I'm passionate about software development and constantly exploring new technologies. Welcome to my GitHub, where I keep my coursework, personal projects, and experiments.
 
 * 🎓 **Education:** BSc Computer Science @ QMUL (2nd Year)
-* 🌱 **Currently Learning:** [Next.js, React, Data Structures,]
+* 🌱 **Currently Learning:** Next.js | React | Data Structures
 * 🎯 **Goals:** Looking for internships and exciting projects to collaborate on!
 
 ---
