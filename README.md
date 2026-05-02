@@ -31,7 +31,7 @@ Hi, I'm Sabeeh! I'm currently in my second year studying Computer Science at Que
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeehashir&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabeehAshir&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
