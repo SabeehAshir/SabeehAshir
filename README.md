@@ -31,11 +31,27 @@ Hi, I'm Sabeeh! I'm currently in my second year studying Computer Science at Que
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeehashir&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-clone-seven.vercel.app/api/top-langs/?username=sabeehashir&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabeehashir&show_icons=true&theme=dark&hide_border=true" alt="Sabeeh's GitHub Stats" />
+  <img src="https://github-readme-stats-clone-seven.vercel.app/api?username=sabeehashir&show_icons=true&theme=dark&hide_border=true" alt="Sabeeh's GitHub Stats" />
 </div>
+<!--<table>
+  <tr>
+    <td align="center"><strong>Public Repos</strong></td>
+    <td align="center"><strong>All Repos</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Top languages (public)" 
+           src="https://github-stats-extended.vercel.app/api/top-langs?username=SabeehAshir&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+    </td>
+    <td>
+      <img alt="Top languages (all)" 
+           src="https://github-readme-stats-clone-seven.vercel.app/api/top-langs/?username=SabeehAshir&layout=compact&theme=highcontrast&hide_border=true" />
+    </td>
+  </tr>
+</table> -->
